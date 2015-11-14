@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
     class MyThread implements Runnable {
 
-        // This method runs in the background
+        // This method will run in the background
 
         @Override
         public void run() {
